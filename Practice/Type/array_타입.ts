@@ -30,8 +30,3 @@ let any_type: any[] = [100, '가', true];
 
 // 특정 데이터 타입만 아이템으로 허용
 let select: (number | string)[] = [100, '가'];
-
-let coffee_type: string;
-
-coffee_type = '콜드브루';
-coffee_type = 9112304129312;
